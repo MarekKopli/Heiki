@@ -1,0 +1,18 @@
+html,body {
+  background-color: black;
+}
+#hdr {
+  z-index: 10;
+  background: none;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 200px;
+  color: white;
+  height: 25%;
+  width: 40%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
+#hdr:hover{font-size: 220px}
