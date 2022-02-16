@@ -1,0 +1,27 @@
+.parents {
+  position: absolute;
+  top: 1;
+  left: 1;
+}
+.pilt1 {
+  position: absolute;
+  top: 0;
+  left: 130px;
+  border: 4px solid black
+}
+.pilt2 {
+  position: absolute;
+  top: 0px;
+  left: 230px;
+}
+.pilt3 {
+  position: absolute;
+  top: 50px;
+  left: 181px;
+  clip: rect(0,100px,50px,0px);     
+}
+.tekst {
+    position: absolute;
+    left: 215px;
+    top: 110px;
+}
