@@ -1,0 +1,5 @@
+dl#pix{position: absolute;top: 10px;left: 10px}
+
+dl#pix a img.hid{width: 250px;height: 150px;position: absolute;top: 0px;left: 120px;visibility: hidden}
+
+dl#pix a:hover img.hid{visibility: visible}
