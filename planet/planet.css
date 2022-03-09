@@ -8,11 +8,15 @@ html,body {
   font-weight: bold;
   font-size: 200px;
   color: white;
-  height: 25%;
+  height: 18%;
   width: 40%;
+  left: 550px;
+  top: 390px;
   display: flex;
-  position: fixed;
+  position: absolute;
   align-items: center;
   justify-content: center;
 }
-#hdr:hover{font-size: 220px}
+#hdr:hover{
+    font-size: 220px
+}
