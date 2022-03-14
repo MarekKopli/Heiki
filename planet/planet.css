@@ -2,6 +2,7 @@ html,body {
   background-color: black;
 }
 #hdr {
+  border: none;
   z-index: 10;
   background: none;
   font-family: monospace;
@@ -16,7 +17,9 @@ html,body {
   position: absolute;
   align-items: center;
   justify-content: center;
+  transition: 1s;
 }
 #hdr:hover{
-    font-size: 220px
+    font-size: 220px;
+    transform: scale(1.15,1.15);
 }

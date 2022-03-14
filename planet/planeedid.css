@@ -1,0 +1,62 @@
+html,body {
+  background-color: black;
+}
+.mrk {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 2%;
+    top: 41%;
+}
+.vns {     
+    border: none;
+    background: none;
+    position: absolute;
+    left: 13.5%;
+    top: 41%;
+}
+.maa {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 25%;
+    top:41%;
+}
+.mrs {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 36.8%;
+    top:41%;
+}
+.jpt {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 48.8%;
+    top:41%;
+}
+.stn {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 59.3%;
+    top:41%;
+}
+.aan {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 74%;
+    top:41%;
+}
+.npt {
+    border: none;
+    background: none;
+    position: absolute;
+    left: 86%;
+    top:41%;
+}
+.parent:hover > button:hover {
+  opacity: 0.5;
+}
