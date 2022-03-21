@@ -1,0 +1,9 @@
+html, body{
+    background-image: url(kosmos.jpg)
+}
+.neptuun{
+    position: absolute;
+    left: 34%;
+    top: 23%;
+    
+}

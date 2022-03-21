@@ -1,0 +1,8 @@
+html, body{
+    background-image: url(kosmos.jpg)
+}
+.veenus{
+    position: absolute;
+    left: 34%;
+    top: 23%;
+}

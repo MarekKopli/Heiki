@@ -1,0 +1,8 @@
+html, body{
+    background-image: url(kosmos.jpg)
+}
+.saturn{
+    position: absolute;
+    left: 30%;
+    top: 23%;
+}
