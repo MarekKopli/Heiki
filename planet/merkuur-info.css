@@ -1,15 +1,4 @@
 html, body{
-    background-image: url(kosmos.jpg)
+    background-image: url(merkuur-ps.png)
 }
-.merkuur{
-    position: absolute;
-    left: 34%;
-    top: 23%;
-}
-.mrk-suurus {
-    position: absolute;
-    top: 30%;
-    left: 60%;
-    z-index: 1;
-    color: white;
-}
+.inf1 {color: red; font-family: 'Customfont'; src: url(BAHNSCHRIFT.TTF)}

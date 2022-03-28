@@ -1,8 +1,9 @@
 html, body{
-    background-image: url(kosmos.jpg)
+    background-image: url(kosmos2.png)
 }
 .maa{
     position: absolute;
-    left: 34%;
+    left: 6%;
     top: 23%;
+    box-shadow: 200px 0px 5px #fff;
 }

@@ -1,6 +1,7 @@
 html,body {
   background-image: url(kosmos.jpg);
 }
+.planeedid{color: white; font-family: monospace; font: bold;left: 35%;top: 6%; position: absolute; font-size: 150px}
 .mrk {
     border: none;
     background: none;
@@ -71,7 +72,7 @@ html,body {
     border: none;
     background: none;
     position: absolute;
-    left: 74%;
+    left: 73%;
     top:41%;
     transition: 3s;
 }
