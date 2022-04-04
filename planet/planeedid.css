@@ -1,7 +1,15 @@
 html,body {
   background-image: url(kosmos.jpg);
 }
-.planeedid{color: white; font-family: monospace; font: bold;left: 35%;top: 6%; position: absolute; font-size: 150px}
+.planeedid{
+    color: white;
+    font-family: monospace;
+    font: bold;
+    left: 29%;
+    top: -9%;
+    position: absolute;
+    font-size: 150px;
+}
 .mrk {
     border: none;
     background: none;

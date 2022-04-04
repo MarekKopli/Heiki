@@ -5,5 +5,14 @@ html, body{
     position: absolute;
     left: 6%;
     top: 23%;
-    box-shadow: 200px 0px 5px #fff;
+    border-radius: 100%;
+}
+.inf1 {
+    color: white;
+    z-index: 1;
+    float: left;
+    left: 200px;
+    top: 10px;
+    font-size: 10px;
+
 }
