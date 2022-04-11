@@ -4,7 +4,7 @@ html, body{
 .plt{
     left: 6%;
     top: 32%;
-    position: absolute;
+    position: fixed;
     border-radius: 100%;
     z-index: 1;
 }
@@ -15,32 +15,77 @@ html, body{
     width: 260px;
     height: 260px;
     border-radius: 50%;
-    position: absolute;
+    position: fixed;
       box-shadow: 0 0 60px 30px white;
 }
 .logo {
     left: 4.5%;
-    top: 6%;
+    top: 4%;
     color: white;
     font-size: 90px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: yellow underline;
-    border-radius: 15px 50px 30px 5px;
+    
 }
 .inf1{
     color: white;
     z-index: 1;
-    left: 200px;
-    top: 10px;
     font-size:17px;
     font-family: sans-serif;
-    left: 40%;
-    top: 5%;
+    left: 35%;
+    top: 12.4%;
     position: absolute;
-    padding-right: 10px;
-    border-left: 6px solid yellow;
-    height: 4%;
-     position:absolute;
-    border-spacing: 20px;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 31.5%;
+    border-radius:6px;
+    line-height: 1.5;
+}
+#nimi {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 35%;
+    top: 50%;
+    text-decoration: 4px yellow underline;
+}
+.inf2 {
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 35%;
+    top: 58%;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 5.5%;
+    border-radius:6px;
+    line-height: 1.5;
+}
+#orbiit {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 35%;
+    top: 67%;
+    text-decoration: 4px yellow underline;
+}
+.inf3 {
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 35%;
+    top: 75%;
+    position: absolute;
+    padding-left: 26px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 55.5%;
+    border-radius:6px;
+    line-height: 1.5;
 }
