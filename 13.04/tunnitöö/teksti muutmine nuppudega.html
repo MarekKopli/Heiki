@@ -1,0 +1,53 @@
+<html>
+
+<head>
+    <title>Change Color in JS</title>
+</head>
+
+<body>
+    <button id="punane">muuda teksti varvi</button>
+    <button id="hall">muuda tausta</button>
+    <button id="font">muuda fonti</button>
+    <button id="suurus">muuda suurust</button>
+    <button id="joon">joonestan</button>
+     <button id="nähtavus">muuda nahtamatuks</button>
+    
+        <p id="p1">MA MUUTUN!</p>
+    
+    <script>
+
+        document.getElementById("punane").onclick = function () {
+            document.getElementById("p1").style.color = 'red';
+            alert ("muutsid teksti punaseks");
+        }
+        
+
+        document.getElementById("hall").onclick = function () {
+            document.getElementById("p1").style.backgroundColor = 'gray';
+            alert ("muutsid tausta halliks");
+        }
+
+        document.getElementById("font").onclick = function () {
+            document.getElementById("p1").style.fontFamily = 'Helvetica';
+            alert ("muutsid fonti");
+        }
+
+        document.getElementById("suurus").onclick = function () {
+            document.getElementById("p1").style.fontSize = '50px';
+            alert ("muutsid teksti suurust");
+        }
+
+         document.getElementById("joon").onclick = function () {
+            document.getElementById("p1").style.textDecoration = 'underline';
+             alert ("panid teksti alla joone");
+        }
+
+          document.getElementById("nähtavus").onclick = function () {
+            document.getElementById("p1").style.display = 'none';
+              alert ("tegid teksti nähtamatuks");
+        }
+
+    </script>
+</body>
+
+</html>
