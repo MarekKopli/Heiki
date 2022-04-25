@@ -1,6 +1,17 @@
 html, body{
     background-image: url(kosmos2.png)
 }
+.tagasi {
+    border: none;
+    background: none;
+    left: 1%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: yellow underline;
+}
 .plt{
     left: 6%;
     top: 32%;
@@ -40,7 +51,6 @@ html, body{
     padding-right: 30px;
     border-left: 4px solid yellow;
     height: 31.5%;
-    border-radius:6px;
     line-height: 1.5;
 }
 #nimi {
@@ -49,7 +59,7 @@ html, body{
     position: absolute;
     font-size: 30px;
     left: 35%;
-    top: 50%;
+    top: 48.5%;
     text-decoration: 4px yellow underline;
 }
 .inf2 {
@@ -57,13 +67,12 @@ html, body{
     font-size:17px;
     font-family: sans-serif;
     left: 35%;
-    top: 58%;
+    top: 56.5%;
     position: absolute;
     padding-left: 10px;
     padding-right: 30px;
     border-left: 4px solid yellow;
     height: 5.5%;
-    border-radius:6px;
     line-height: 1.5;
 }
 #orbiit {
@@ -72,7 +81,7 @@ html, body{
     position: absolute;
     font-size: 30px;
     left: 35%;
-    top: 67%;
+    top: 66%;
     text-decoration: 4px yellow underline;
 }
 .inf3 {
@@ -80,12 +89,77 @@ html, body{
     font-size:17px;
     font-family: sans-serif;
     left: 35%;
-    top: 75%;
+    top: 74%;
     position: absolute;
     padding-left: 26px;
     padding-right: 30px;
     border-left: 4px solid yellow;
     height: 55.5%;
-    border-radius:6px;
+    line-height: 1.5;
+}
+#pinnavormid {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 35%;
+    top: 133%;
+    text-decoration: 4px yellow underline;
+}
+.inf4 {
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 35%;
+    top: 141%;
+    position: absolute;
+    padding-left: 26px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 76.5%;
+    line-height: 1.5;
+}
+#mootmed {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 35%;
+    top: 221.4%;
+    text-decoration: 4px yellow underline;
+}
+.inf5 {
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 35%;
+    top: 229.4%;
+    position: absolute;
+    padding-left: 26px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 40;
+    line-height: 1.5;
+}
+#magnetvali {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    font-size: 30px;
+    left: 35%;
+    top: 272.4%;
+    text-decoration: 4px yellow underline;
+}
+.inf6 {
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 35%;
+    top: 280.4%;
+    position: absolute;
+    padding-left: 26px;
+    padding-right: 30px;
+    border-left: 4px solid yellow;
+    height: 40;
     line-height: 1.5;
 }
