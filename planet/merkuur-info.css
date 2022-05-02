@@ -12,6 +12,17 @@ html, body{
     position: fixed;
     text-decoration: yellow underline;
 }
+.pildid {
+    border: none;
+    background: none;
+    left: 9%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: yellow underline;
+}
 .plt{
     left: 6%;
     top: 32%;
@@ -162,4 +173,7 @@ html, body{
     border-left: 4px solid yellow;
     height: 40;
     line-height: 1.5;
+}
+#pildid1 {
+    
 }

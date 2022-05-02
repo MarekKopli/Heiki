@@ -1,8 +1,60 @@
 html, body{
-    background-image: url(kosmos.jpg)
+    background-image: url(kosmos2.png)
 }
 .veenus{
     position: absolute;
     left: 34%;
     top: 23%;
+}
+html, body{
+    background-image: url(kosmos2.png)
+}
+.tagasi {
+    border: none;
+    background: none;
+    left: 1%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: orange underline;
+}
+.pildid {
+    border: none;
+    background: none;
+    left: 9%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: orange underline;
+}
+.plt{
+    left: 6%;
+    top: 30%;
+    position: fixed;
+    border-radius: 100%;
+    z-index: 1;
+}
+.glow{
+    left: 8.7%;
+    top: 38%;
+    background: white;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    position: fixed;
+      box-shadow: 0 0 60px 30px white;
+}
+.logo {
+    left: 5.9%;
+    top: 4%;
+    color: white;
+    font-size: 90px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: orange underline;
+    
 }

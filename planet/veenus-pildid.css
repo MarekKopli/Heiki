@@ -1,0 +1,41 @@
+html, body{
+    background-image: url(kosmos2.png)
+}
+.tagasi {
+    border: none;
+    background: none;
+    left: 1%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: orange underline;
+}
+.pildid1 {
+    border-radius: 100%;
+    position: absolute;
+}
+.pildid1-tekst {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    border-left: 4px solid orange;
+    left: 19%;
+    top: 13%;
+    padding-left: 10px;
+}
+.pildid2 {
+    border-radius: 100%;
+    position: absolute;
+    left: 70%
+}
+.pildid2-tekst {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    border-left: 4px solid orange;
+    left: 19%;
+    top: 13%;
+    padding-left: 10px;
+}

@@ -1,0 +1,85 @@
+html, body{
+    background-image: url(kosmos2.png)
+}
+.tagasi {
+    border: none;
+    background: none;
+    left: 1%;
+    top: 95%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: yellow underline;
+}
+.pildid1{
+    position: absolute;
+    top: 0%;
+    left: -4%;
+    -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+    border-top-right-radius: 80%
+}
+.pildid1-tekst {
+    position: absolute;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border-left: 4px solid yellow;
+    color: white;
+    left: 15%;
+}
+.pildid2 {
+     position: absolute;
+    top: 10%;
+    left: 72%;
+    border-radius: 100%;
+}
+.pildid2-tekst {
+    position: absolute;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border-left: 4px solid yellow;
+    color: white;
+    left: 48%;
+    top: 25%;
+}
+.pildid3 {
+     position: absolute;
+    top: 50%;
+    left: 0%;
+    border-radius: 100%;
+}
+.pildid3-tekst {
+    position: absolute;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border-left: 4px solid yellow;
+    color: white;
+    left: 20%;
+    top: 40%;
+}
+.pildid4 {
+     position: absolute;
+    top: 63.9%;
+    left: 79%;
+     -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  border-bottom-right-radius: 000%
+
+}
+.pildid4-tekst {
+    position: absolute;
+    font-family: sans-serif;
+    padding-left: 10px;
+    border-left: 4px solid yellow;
+    color: white;
+    left: 50%;
+    top: 65%;
+    
+}
