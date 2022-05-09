@@ -46,15 +46,87 @@ html, body{
     height: 260px;
     border-radius: 50%;
     position: fixed;
-      box-shadow: 0 0 60px 30px white;
+      box-shadow: 0 0 60px 30px orange;
 }
 .logo {
     left: 5.9%;
-    top: 4%;
+    top: 6%;
     color: white;
     font-size: 90px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: orange underline;
     
+}
+.inf1 {
+    color: white;
+    z-index: 1;
+    font-family: sans-serif;
+    left: 35%;
+    top: 12.4%;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+}
+.pohijooned {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 35%;
+    top: 24.5%;
+    text-decoration: 4px orange underline;
+}
+.inf2 {
+    color: white;
+    z-index: 1;
+    font-family: sans-serif;
+    left: 35%;
+    top: 30.4%;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+}
+.atmosfaar {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 35%;
+    top: 62%;
+    text-decoration: 4px orange underline;
+}
+.inf3 {
+    color: white;
+    z-index: 1;
+    font-family: sans-serif;
+    left: 35%;
+    top: 68.6%;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+}
+.pilved {
+    color: white;
+    font-family: sans-serif;
+    position: absolute;
+    left: 35%;
+    top: 108%;
+    text-decoration: 4px orange underline;
+}
+.inf4 {
+    color: white;
+    z-index: 1;
+    font-family: sans-serif;
+    left: 35%;
+    top: 115.5%;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 30px;
+    border-left: 4px solid orange;
+    line-height: 1.5; 
 }
