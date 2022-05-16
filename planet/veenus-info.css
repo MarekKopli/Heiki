@@ -12,36 +12,39 @@ html, body{
 .tagasi {
     border: none;
     background: none;
-    left: 1%;
+    left: 93%;
     top: 95%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: orange underline;
+    z-index: 1;
 }
 .pildid {
     border: none;
     background: none;
-    left: 9%;
+    left: 85%;
     top: 95%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: orange underline;
+    z-index: 1;
 }
 .plt{
-    left: 6%;
-    top: 30%;
+    left: 74%;
+    top: 32%;
     position: fixed;
     border-radius: 100%;
     z-index: 1;
+    flex-shrink: 100px;
 }
 .glow{
-    left: 8.7%;
+    left: 76%;
     top: 38%;
-    background: white;
+    background: orange;
     width: 260px;
     height: 260px;
     border-radius: 50%;
@@ -49,7 +52,7 @@ html, body{
       box-shadow: 0 0 60px 30px orange;
 }
 .logo {
-    left: 5.9%;
+    left: 74%;
     top: 6%;
     color: white;
     font-size: 90px;
@@ -58,75 +61,57 @@ html, body{
     text-decoration: orange underline;
     
 }
-.inf1 {
+.inf1{
     color: white;
-    z-index: 1;
+    font-size:17px;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 12.4%;
-    position: absolute;
+    position: relative;
     padding-left: 10px;
-    padding-right: 30px;
+    padding-right: 38%;
     border-left: 4px solid orange;
     line-height: 1.5;
+    text-align: justify;
 }
-.pohijooned {
-    color: white;
+.iseloomustus {
+        color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
-    top: 24.5%;
+    position: relative;
+    left: 0%;
+    top: 64%;
     text-decoration: 4px orange underline;
 }
-.inf2 {
+.inf2{
     color: white;
-    z-index: 1;
+    font-size:17px;
     font-family: sans-serif;
-    left: 35%;
-    top: 30.4%;
-    position: absolute;
+    left: 0%;
+    top: 70%;
+    position: relative;
     padding-left: 10px;
-    padding-right: 30px;
+    padding-right: 38%;
     border-left: 4px solid orange;
     line-height: 1.5;
-}
-.atmosfaar {
-    color: white;
+    text-align: justify;
+}.pinnavormid {
+        color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
-    top: 62%;
+    position: relative;
+    left: 0%;
+    top: 64%;
     text-decoration: 4px orange underline;
 }
-.inf3 {
+.inf3{
     color: white;
-    z-index: 1;
+    font-size:17px;
     font-family: sans-serif;
-    left: 35%;
-    top: 68.6%;
-    position: absolute;
+    left: 0%;
+    top: 70%;
+    position: relative;
     padding-left: 10px;
-    padding-right: 30px;
+    padding-right: 38%;
     border-left: 4px solid orange;
     line-height: 1.5;
-}
-.pilved {
-    color: white;
-    font-family: sans-serif;
-    position: absolute;
-    left: 35%;
-    top: 108%;
-    text-decoration: 4px orange underline;
-}
-.inf4 {
-    color: white;
-    z-index: 1;
-    font-family: sans-serif;
-    left: 35%;
-    top: 115.5%;
-    position: absolute;
-    padding-left: 10px;
-    padding-right: 30px;
-    border-left: 4px solid orange;
-    line-height: 1.5; 
+    text-align: justify;
 }

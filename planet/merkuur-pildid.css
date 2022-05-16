@@ -4,13 +4,14 @@ html, body{
 .tagasi {
     border: none;
     background: none;
-    left: 1%;
+    left: 93%;
     top: 95%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: yellow underline;
+    z-index: 1
 }
 .pildid1{
     position: absolute;

@@ -4,27 +4,29 @@ html, body{
 .tagasi {
     border: none;
     background: none;
-    left: 1%;
+    left: 93%;
     top: 95%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: yellow underline;
+    z-index: 1
 }
 .pildid {
     border: none;
     background: none;
-    left: 9%;
+    left: 85%;
     top: 95%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: yellow underline;
+    z-index: 1;
 }
 .plt{
-    left: 6%;
+    left: 76%;
     top: 32%;
     position: fixed;
     border-radius: 100%;
@@ -32,7 +34,7 @@ html, body{
     flex-shrink: 100px;
 }
 .glow{
-    left: 8.7%;
+    left: 78%;
     top: 38%;
     background: white;
     width: 260px;
@@ -42,7 +44,7 @@ html, body{
       box-shadow: 0 0 60px 30px white;
 }
 .logo {
-    left: 4.5%;
+    left: 73%;
     top: 6%;
     color: white;
     font-size: 90px;
@@ -55,106 +57,107 @@ html, body{
     color: white;
     z-index: 1;
     font-family: sans-serif;
-    left: 35%;
-    top: 12.4%;
-    position: absolute;
+    left: 0%;
+    top: 22.4%;
+    position: relative;
     padding-left: 10px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
+    box-sizing: content-box;
 }
 #nimi {
     color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 0%;
     top: 48.5%;
     text-decoration: 4px yellow underline;
 }
 .inf2 {
     color: white;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 56.5%;
-    position: absolute;
+    position: relative;
     padding-left: 10px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
 }
 #orbiit {
     color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 0%;
     top: 66%;
     text-decoration: 4px yellow underline;
 }
 .inf3 {
     color: white;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 74%;
-    position: absolute;
+    position: relative;
     padding-left: 26px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
 }
 #pinnavormid {
     color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 0%;
     top: 160%;
     text-decoration: 4px yellow underline;
 }
 .inf4 {
     color: white;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 168%;
-    position: absolute;
+    position: relative;
     padding-left: 26px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
 }
 #mootmed {
     color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 0%;
     top: 250%;
     text-decoration: 4px yellow underline;
 }
 .inf5 {
     color: white;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 258.4%;
-    position: absolute;
+    position: relative;
     padding-left: 26px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
 }
 #magnetvali {
     color: white;
     font-family: sans-serif;
-    position: absolute;
-    left: 35%;
+    position: relative;
+    left: 0%;
     top: 300.4%;
     text-decoration: 4px yellow underline;
 }
 .inf6 {
     color: white;
     font-family: sans-serif;
-    left: 35%;
+    left: 0%;
     top: 309.4%;
-    position: absolute;
+    position: relative;
     padding-left: 26px;
-    padding-right: 30px;
+    padding-right: 36%;
     border-left: 4px solid yellow;
     line-height: 1.5;
 }
