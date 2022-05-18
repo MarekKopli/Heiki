@@ -12,8 +12,8 @@ html, body{
 .tagasi {
     border: none;
     background: none;
-    left: 93%;
-    top: 95%;
+    left: 90%;
+    top: 89%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
@@ -24,8 +24,8 @@ html, body{
 .pildid {
     border: none;
     background: none;
-    left: 85%;
-    top: 95%;
+    left: 80%;
+    top: 89%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
@@ -103,6 +103,173 @@ html, body{
     text-decoration: 4px orange underline;
 }
 .inf3{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.kontinendid {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf4{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.geoloogia {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf5{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.ehitus {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf6{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}.atmosfaar {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf7{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.vesi {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf8{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.elu {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf9{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.kuud {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf10{
+    color: white;
+    font-size:17px;
+    font-family: sans-serif;
+    left: 0%;
+    top: 70%;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 38%;
+    border-left: 4px solid orange;
+    line-height: 1.5;
+    text-align: justify;
+}
+.uurimine {
+        color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 64%;
+    text-decoration: 4px orange underline;
+}
+.inf11{
     color: white;
     font-size:17px;
     font-family: sans-serif;

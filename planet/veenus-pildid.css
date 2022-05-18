@@ -4,13 +4,14 @@ html, body{
 .tagasi {
     border: none;
     background: none;
-    left: 1%;
-    top: 95%;
+    left: 90%;
+    top: 89%;
     color: white;
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
     text-decoration: orange underline;
+    z-index: 1
 }
 .pildid1 {
     border-radius: 100%;
@@ -26,16 +27,29 @@ html, body{
     padding-left: 10px;
 }
 .pildid2 {
-    border-radius: 100%;
     position: absolute;
-    left: 70%
+    left: 68%
 }
 .pildid2-tekst {
     position: absolute;
     color: white;
     font-family: sans-serif;
     border-left: 4px solid orange;
-    left: 19%;
-    top: 13%;
+    left: 68%;
+    top: 38%;
+    padding-left: 10px;
+}
+.pildid3 {
+    position: absolute;
+    left: 37%;
+    top: 40%
+}
+.pildid3-tekst {
+    position: absolute;
+    color: white;
+    font-family: sans-serif;
+    border-left: 4px solid orange;
+    left: 36%;
+    top: 65%;
     padding-left: 10px;
 }
