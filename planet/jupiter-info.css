@@ -1,8 +1,86 @@
 html, body{
-    background-image: url(kosmos.jpg)
+    background-image: url(kosmos2.png)
 }
-.jupiter{
-    position: absolute;
-    left: 34%;
-    top: 23%;
+.ulevaade {
+    border: none;
+    background: none;
+    left: 73%;
+    top: 89%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: #ab9e91 underline;
+    z-index: 1
+}
+.tagasi {
+    border: none;
+    background: none;
+    left: 91%;
+    top: 89%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: #ab9e91 underline;
+    z-index: 1
+}
+.pildid {
+    border: none;
+    background: none;
+    left: 84%;
+    top: 89%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: #ab9e91 underline;
+    z-index: 1;
+}
+.plt{
+    left: 76%;
+    top: 32%;
+    position: fixed;
+    border-radius: 100%;
+    z-index: 1;
+    flex-shrink: 100px;
+}
+.glow{
+    left: 78%;
+    top: 38%;
+    background: white;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: fixed;
+      box-shadow: 0 0 60px 30px #ab9e91;
+}
+.logo {
+    left: 76%;
+    top: 6%;
+    color: white;
+    font-size: 90px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: #ab9e91 underline;
+    
+}
+.i4 {
+    color: white;
+    font-family: sans-serif;
+    position: relative;
+    left: 0%;
+    top: 160%;
+    text-decoration: 4px #ab9e91 underline;
+}
+.inf4 {
+    color: white;
+    font-family: sans-serif;
+    left: 0%;
+    top: 168%;
+    position: relative;
+    padding-left: 26px;
+    padding-right: 36%;
+    border-left: solid #ab9e91;
+    line-height: 1.5;
 }

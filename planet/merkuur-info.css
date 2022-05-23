@@ -1,10 +1,22 @@
 html, body{
     background-image: url(kosmos2.png)
 }
+.ulevaade {
+    border: none;
+    background: none;
+    left: 73%;
+    top: 89%;
+    color: white;
+    font-size: 30px;
+    font-family:sans-serif;
+    position: fixed;
+    text-decoration: yellow underline;
+    z-index: 1
+}
 .tagasi {
     border: none;
     background: none;
-    left: 90%;
+    left: 91%;
     top: 89%;
     color: white;
     font-size: 30px;
@@ -16,7 +28,7 @@ html, body{
 .pildid {
     border: none;
     background: none;
-    left: 80%;
+    left: 84%;
     top: 89%;
     color: white;
     font-size: 30px;
