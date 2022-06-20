@@ -10,7 +10,7 @@ html, body{
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
-    text-decoration: #ab9e91 underline;
+    text-decoration: #4e91fc underline;
     z-index: 1
 }
 .tagasi {
@@ -22,7 +22,7 @@ html, body{
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
-    text-decoration: #ab9e91 underline;
+    text-decoration: #4e91fc underline;
     z-index: 1
 }
 .pildid {
@@ -34,7 +34,7 @@ html, body{
     font-size: 30px;
     font-family:sans-serif;
     position: fixed;
-    text-decoration: #ab9e91 underline;
+    text-decoration: #4e91fc underline;
     z-index: 1;
 }
 .plt{
