@@ -1,5 +1,5 @@
 html, body{
-    background-image: url(kosmos2.png)
+    background-image: url(kosmos4.jpg)
 }
 .ulevaade {
     border: none;
@@ -65,7 +65,7 @@ html, body{
     text-decoration: #ab9e91 underline;
     
 }
-.i4 {
+h2 {
     color: white;
     font-family: sans-serif;
     position: relative;
@@ -73,7 +73,7 @@ html, body{
     top: 160%;
     text-decoration: 4px #ab9e91 underline;
 }
-.inf4 {
+h4 {
     color: white;
     font-family: sans-serif;
     left: 0%;
